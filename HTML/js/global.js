@@ -2,7 +2,7 @@
 var Global = function() {
   'use strict';
 
-  // Bootstra Components
+  // Bootstrap Components
   var handleBootstrapComponents = function() {
     // Bootstrap Carousel
     $('.carousel').carousel({
